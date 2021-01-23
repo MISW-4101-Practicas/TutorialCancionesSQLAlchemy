@@ -1,0 +1,4 @@
+
+.idea/*
+src/modelo/__pycache__/*
+src/logica/__pycache__/*
