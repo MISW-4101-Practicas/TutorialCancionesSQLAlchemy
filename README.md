@@ -6,15 +6,16 @@ Para el desarrollo de este tutorial es importante cumplir con los siguientes req
 
   ```bash
   $ pip install virtualenv
-  Configuración de ambiente virtual
   ```
 
-  ```bash
-  python3 -m venv venv
-  .\venv\Scripts\activate
-  pip install -r requirements.txt
-  deactivate
-  ```
+- Configuración de ambiente virtual
+
+```bash
+python3 -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+deactivate
+```
 
 - Tener Python y pip correctamente instalados y actualizados a una versión reciente. Si aún no los instala, puede descargar las versiones para los diferentes sistemas operativos en https://www.python.org/downloads/ y si es necesario revisar las instrucciones de instalación, se pueden seguir en sitios como https://realpython.com/installing-python/
 - Instalar un IDE. Se recomienda utilizar PyCharm Community Edition (Disponible en: https://www.jetbrains.com/es-es/pycharm/download/) ó Visual Studio Code (Disponible en: https://code.visualstudio.com/download)
